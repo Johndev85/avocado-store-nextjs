@@ -15,14 +15,14 @@ Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para
 
     Instala dependencias
 
-    ```sh
-    yarn
+    ```npm install
+
     ```
 
     Inicia el proyecto
 
-    ```sh
-    yarn dev
+    ```npm run dev
+
     ```
 
     El sitio estará disponible en http://localhost:3000.

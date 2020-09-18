@@ -33,7 +33,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged && yarn type-check"
+      "pre-commit": "pretty-quick --staged && npm run type-check"
     }
   }
 }
